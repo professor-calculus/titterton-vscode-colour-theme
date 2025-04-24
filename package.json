@@ -1,0 +1,21 @@
+{
+  "name": "titterton-colour-theme-light",
+  "displayName": "titterton-colour-theme-light",
+  "description": "Light mode colour theme with easy to read highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Titterton Colour Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/Titterton Colour Theme Light-color-theme.json"
+      }
+    ]
+  }
+}
