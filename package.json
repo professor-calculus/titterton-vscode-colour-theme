@@ -2,7 +2,7 @@
   "name": "titterton-colour-theme-light",
   "displayName": "Titterton Light Mode",
   "description": "Light mode colour theme with easy to read highlighting",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
